@@ -1,0 +1,19 @@
+.icon-block {
+    padding: 0;
+  }
+  .icon-block .material-icons {
+      font-size: inherit;
+  }
+  nav{
+    height: 70px;
+  }
+  nav #log{
+    padding: 0px;
+    margin: 6px;
+  }
+  nav a{
+    color: #000;
+    }
+  nav ul a{
+    color: #000; 
+  }
